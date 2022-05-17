@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+*.gpml
+*.rot
+*.DS_store
